@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Nairobi Guide App</string>
+
+    //Splash Screen
+
+    <string name="karibu">Karibu Nairobi,\nKenya</string>
+
+    //Attractions
+
+    <string name="about">About</string>
+    <string name="address">Address</string>
+    <string name="visit_site">Visit Website</string>
+
+    <string name="bomas_of_kenya">Bomas of Kenya</string>
+    <string name="giraffe_centre">Giraffe Centre</string>
+    <string name="nairobi_national_museum">Nairobi National Museum</string>
+    <string name="nairobi_national_park">Nairobi National Park</string>
+
+    <string name="description_one">About 10 kilometers from Nairobi, Bomas of Kenya is a living museum celebrating the
+            tribes of Kenya. This is a great place to learn about the lifestyle, art, music, crafts,
+            and culture of each tribe. The complex encompasses a recreated traditional village with
+            homesteads or bomas, each one reflecting the culture of a major ethnic group. Every
+            afternoon, a team performs traditional dances and songs in the large theater.</string>
+
+    <string name="description_two">At the Giraffe Centre, on the edge of Nairobi National Park, visitors can come face to
+            face with endangered Rothschild\'s giraffes. This non-profit center lies on the grounds
+            of the plush guesthouse, Giraffe Manor, and its main mission is to provide conservation
+            education for children. The visitor center displays information about these graceful
+            creatures, and a raised platform allows you to feed them at eye level with specially
+            prepared pellets. This is one of the most popular things to do from Nairobi, especially
+            with children - photo ops with wet, gray giraffe tongues slurping little faces are
+            priceless. After communing with these long-lashed beauties, you can enjoy a
+            1.5-kilometer self-guided forest walk in the adjacent nature reserve.</string>
+
+    <string name="description_three">The National Museum in Nairobi is an educational way to spend a few hours on a city
+            stopover. The museum displays diverse cultural and natural history exhibits including
+            more than 900 stuffed birds and mammals, fossils from Lake Turkana, ethnic displays from
+            various Kenyan tribal groups, and exhibits of local art. In the Geology Gallery, you can
+            explore an impressive collection of rocks and minerals and learn about tectonic plates
+            and the life cycle of a volcano. The Hominid Vault contains a collection of prehistoric
+            bones and fossils, including the preserved fossil of an elephant. At the museum,
+            visitors can purchase combination tickets, which include entrance to the adjacent Snake
+            Park with live specimens of Kenya\'s most common reptiles.</string>
+
+    <string name="description_four">Kenya\'s first national park, Nairobi National Park is a haven for wildlife and only
+            seven kilometers from the skyscrapers of Nairobi\'s city center. The park is also a rhino
+            sanctuary, which protects more than 50 of these critically endangered creatures.
+            In addition to the rhinos, you can see lions, gazelles, buffaloes, warthogs, cheetahs,
+            zebras, giraffes, and ostriches, and more than 400 species of birds have been recorded
+            in the wetlands.Nairobi National Park is also a famous ivory burning site. In 1989,
+            President Moi ignited 12 tons of elephant tusks and rhino horns here, boosting the
+            country\'s conservation image on the world stage. Today, a monument marks this historic
+            site. The Nairobi Safari Walk is a popular attraction offering animal lovers the chance
+            to spot wildlife on foot, and walking trails weave around the area known as Hippo Pools.
+            At the park's main gate, you can bond with orphaned baby elephants and rhinos at the
+            David Sheldrick Wildlife Trust.</string>
+
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Adipisci amet atque commodi consequatur cumque error, et ex explicabo facilis iste,
+        libero nesciunt nobis perspiciatis porro quae sequi sint soluta sunt.</string>
+
+
+    <string-array name="attraction_description">
+        <item>@string/description_one</item>
+        <item>@string/description_two</item>
+        <item>@string/description_three</item>
+        <item>@string/description_four</item>
+    </string-array>
+
+    <string-array name="attraction_address">
+        <item>Forest Edge Road, off Langata Road, Mageso Chember</item>
+        <item>Langata Road, Nairobi</item>
+        <item>Museum Hill Road, Nairobi</item>
+        <item>Langata Road, Nairobi</item>
+    </string-array>
+
+    //Hotels
+
+    <string name="hilton">Hilton Hotel</string>
+    <string name="intercontinental">InterContinental Hotel</string>
+    <string name="safari_park">Safari park Hotel</string>
+    <string name="clarion">Clarion Hotel</string>
+    <string name="crowne_plaza">Crowne Plaza Hotel</string>
+    <string name="ambassadeur">Ambassadeur Hotel</string>
+
+    <string name="content_hilton">Understated lodging with 5 restaurants and a rooftop pool,
+        plus a spa and a ballroom.</string>
+
+    <string name="content_intercontinental">Bright refined rooms and suites, as well as an outdoor
+        pool, an Indian restaurant and a chic cafe.</string>
+
+    <string name="content_safari_park">Cosy quarters in a buzzy property with event space,
+        a casino and dining, plus live shows and a pool.</string>
+
+    <string name="content_clarion">Warm property featuring a restaurant, a trendy bar and a cafe,
+        plus a gym, a sauna and a terrace.</string>
+
+    <string name="content_crowne_plaza">Upscale rooms and suites in a modern property offering a
+        spa and an outdoor pool, plus free breakfast.</string>
+
+    <string name="content_ambassadeur">Unpretentious rooms in a hotel featuring a laid-back
+        international restaurant with a bar.</string>
+
+    //Clubs
+
+    <string name="gipsy">Gipsy Bar</string>
+    <string name="bacchu">Bacchu\'s Lounge</string>
+    <string name="klub">Klub House</string>
+    <string name="havana">Havana Bar and Restaurant</string>
+    <string name="pavement">Pavement</string>
+    l
+    <string name="gipsy_location">Address: Woodvale Grove, Nairobi</string>
+    <string name="bacchu_location">Address: 23, Nairobi</string>
+    <string name="klub_location">Address: 06 Chiromo Lane, Parklands</string>
+    <string name="havana_location">Address: Woodvale Grove, P. O. Box 806, Nairobi</string>
+    <string name="pavement_location">Central Business District, CBD</string>
+
+    <string name="gipsy_phone">Phone: 0733730529</string>
+    <string name="bacchu_phone">Phone: 0202018198</string>
+    <string name="klub_phone">Phone: 0203749042</string>
+    <string name="havana_phone">Phone: 0204450653</string>
+    <string name="pavement_phone">Phone: 0204442357</string>
+
+    <string name="gipsy_hours">Hours: 12PM - 12AM</string>
+    <string name="bacchu_hours">Hours: 3PM - 6AM</string>
+    <string name="klub_hours">Hours: 2PM - 5AM</string>
+    <string name="havana_hours">Hours: 2PM - 5AM</string>
+    <string name="pavement_hours">Hours: 3PM - 6AM</string>
+
+    //About
+
+    <string name="about_header">Nairobi is the capital and largest city of Kenya. It is also Kenya\’s principal
+        economic, administrative and cultural centre.</string>
+
+    <string name="about_header_two">Interesting Facts</string>
+
+    <string name="sub_head_one">1. History</string>
+    <string name="sub_head_two">2. The Name</string>
+    <string name="sub_head_three">3. Matatus</string>
+    <string name="sub_head_four">4. The Weather</string>
+
+    <string name="content_one">Nairobi was founded in the late 1890s as a British railroad camp on
+        the Mombasa to Uganda railway. When the railway construction workers reached this area in
+        1899, they set up a basic camp and supply depot called “Mile 327”. From 1899 to 1905 it
+        served as a British provincial capital. In 1905 the city became the capital of the British
+        East Africa Protectorate (called Kenya Colony from 1920 to 1963), and in 1963 it became the
+        capital of independent Kenya.</string>
+
+    <string name="content_two">Nairobi is located in an area that was once frequented by the
+        pastoral Maasai. The local Maasai called this highland swamp e nai\’robe – the place of cool
+        water. The phrase is also the Maasai name of the Nairobi River, which in turn lent its name
+        to the city.</string>
+
+    <string name="content_three">London has red buses, New York has its taxi cabs, the Philippines
+        has the Jeepneys, New Delhi has rickshaws, and Nairobi has its matatus.\nMatatu is slang for
+        mini buses that are used as public transport in Kenya. In Nairobi, public transportation is
+        the norm for the majority of the population and matatus play a critical role in providing
+        city dwellers with transport.\nA unique feature of matatus is the outlandish art on their
+        body. Nairobi matatus are a sight to behold, especially for first-time visitors. Graffiti
+        from pop culture, music icons and contemporary topics adorn the sides of the matatus in a
+        show of artistic prowess. The more colourful the van, the more famous it is and the more
+        likely it is to attract passengers.</string>
+
+    <string name="content_four">Although Nairobi is situated a few degrees south of the equator,
+        its high altitude – between 1,660m and 1,800m above sea level – means that the city\’s
+        climate is mild year-round. Visitors are spared the extreme, blistering temperatures found
+        in other regions of Africa, or even other areas within Kenya. Summer months in Nairobi are
+        December through March, when average highs are in the upper 20ºs and lows are in the mid to
+        upper 10ºs. Winter months (June through September) are a little cooler. Average highs are in
+        the lower 20ºs, and lows are in the lower 10ºs.</string>
+
+</resources>
